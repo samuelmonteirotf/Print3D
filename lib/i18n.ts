@@ -763,7 +763,7 @@ export const translations = {
       story: {
         title: "Nuestra Historia",
         description:
-          "Fundada con pasión por la innovación, NewPrint3D ha estado a la vanguardia de las soluções de impresión 3D personalizadas. Creemos en transformar ideas en realidad tangible, una capa a la vez.",
+          "Fundada con pasión por la innovación, NewPrint3D ha estado a la vanguardia de las soluciones de impresión 3D personalizadas. Creemos en transformar ideas en realidad tangible, una capa a la vez.",
       },
       mission: {
         title: "Nuestra Misión",
@@ -788,7 +788,7 @@ export const translations = {
       },
       stats: {
         projects: "Proyectos Completados",
-        customers: "Clientes Satisfeitos",
+        customers: "Clientes Satisfechos",
         materials: "Materiales Disponibles",
         countries: "Países Atendidos",
       },
@@ -853,7 +853,7 @@ export const translations = {
       category: "Categoría",
       basePrice: "Precio Base",
       colors: "Colores (separados por coma)",
-      sizes: "Tamanhos (separados por coma)",
+      sizes: "Tamaños (separados por coma)",
       materials: "Materiales (separados por coma)",
       featured: "Destacado",
       active: "Activo",
